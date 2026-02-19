@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ByteMirror/hivemind/releases/download/v0.2.0/hivemind_0.2.0_windows_amd64.zip",
+            "bin": [
+                "hivemind.exe"
+            ],
+            "hash": "17f960d4b1d90679a1ff2096930821f17c3c097109c33330a36b554bd1e4ab5c"
+        },
+        "arm64": {
+            "url": "https://github.com/ByteMirror/hivemind/releases/download/v0.2.0/hivemind_0.2.0_windows_arm64.zip",
+            "bin": [
+                "hivemind.exe"
+            ],
+            "hash": "1bb8f5394c4cbffe570ccebdf343ccaa721024a6646ab4cf67f6f5425d226c28"
+        }
+    },
+    "homepage": "https://github.com/ByteMirror/hivemind",
+    "license": "AGPL-3.0",
+    "description": "Hivemind - A TUI-based agent-driven IDE for managing multiple AI agents"
+}
